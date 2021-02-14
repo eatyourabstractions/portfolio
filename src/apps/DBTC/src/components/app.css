@@ -1,0 +1,39 @@
+
+.salmon{
+    background-color: salmon;
+}
+
+.fuchsia{
+    background-color: fuchsia;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.green{
+    background-color: green;
+}
+
+.tomato{
+    background-color: tomato;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.tileSize {
+    width: 100px;
+    height: 100px;
+}
+
+.sizeAndBorder  {
+    width: 700px;
+    border: none;
+}
+
